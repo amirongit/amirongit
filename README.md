@@ -1,1 +1,6 @@
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=o3sl4o5aiuvzmnb3y37pgyx3l&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
+### Hello, World!
+## I'm Amir, started to code in 2018 and now A junior back end developer.
+
+- :book: Certificates: NET+, LPIC1 & LPIC2
+- Programmin Languages: Python & JavaScript
+- Frameworks: Flask & React
