@@ -1,8 +1,4 @@
-
-#### Hello, World!
-#### I'm Amir, started to code in 2018 and now I'v become a junior full-stack developer.
-- NET+, LPIC1 & LPIC2
-- Python, HTML & CSS
-- Flask
-- Vim + Tmux
-- Arch Linux
+# Banning people because of their nationality is compeletely against software freedom,
+# I hope some day there will be no companies in FOSS world...
+## been banned from github, Due to U.S. trade controls law restrictions!
+### python, lpic1, back-end development & flask.
