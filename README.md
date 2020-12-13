@@ -1,3 +1,1 @@
-#### Hi everyone, I'm amir, started to code since 2018 and now I've become a junior back-end developer, I'm interested in python, flask and GNU/Linux.
-#### unfortunately, I've been banned from github due to U.S. trade controls law restrictions! And I can't use github anymore because of my nationality, so I moved on to Bitbucket, if you want to take a look at my projects, please check me <a href="https://bitbucket.org/amirongit/">here</a>.
-#### ps: banning people because of their nationality is completely against software freedom, I hope some day there will be no companies in FOSS world that has to run some bullshit rules!
+#### Hi everyone, I'm Amir.
