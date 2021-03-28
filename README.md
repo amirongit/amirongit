@@ -4,4 +4,4 @@
 ##### Python tips and tricks - Dan Bader, 90%
 ### Books, docs which I'm reading
 ##### Clean code - Robert C. Martin
-##### SQLAlchemy documentation
+
