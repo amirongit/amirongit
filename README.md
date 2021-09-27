@@ -7,4 +7,4 @@
 ##### SQLAlchemy documentation 50%
 ### Books, docs which I'm reading
 ##### Hands on Data Structures and Algorithms with Python - Dr. Basant Agarwal & Benjamin Baka
-
+##### Django documentation
