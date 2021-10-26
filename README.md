@@ -1,14 +1,14 @@
 # Hey, I'm Amir.
 
-## I know and I'm learning about
+## My knowledge comes from
 
-- Flask documentation, 70%
-- Python tricks the book - Dan Bader, 80%
-- Clean Code - Robert C. Martin, 60%
-- Werkzeug documentation, 50%
-- SQLAlchemy documentation 50%
-- Django documentation 50%
-
-## I'm learning about
-
+- Arbitary python course on youtube
+- Arbitary flask course on youtube
+- Flask documentation
+- Arbitary python PEPs
+- Python tricks the book - Dan Bader
+- Clean Code - Robert C. Martin
+- Werkzeug documentation
+- SQLAlchemy documentation
+- Django documentation
 - Hands on Data Structures and Algorithms with Python - Dr. Basant Agarwal & Benjamin Baka
