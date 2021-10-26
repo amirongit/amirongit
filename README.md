@@ -1,4 +1,4 @@
-# Hey, I'm Amir.
+# Hi, I'm Amir, an amateur python programmer who is interested in software engineering.
 
 ## My knowledge comes from
 
