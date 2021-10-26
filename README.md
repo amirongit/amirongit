@@ -1,6 +1,6 @@
 # Hey, I'm Amir.
 
-## Boooks, docs which I've red
+## I know and I'm learning about
 
 - Flask documentation, 70%
 - Python tricks the book - Dan Bader, 80%
@@ -9,6 +9,6 @@
 - SQLAlchemy documentation 50%
 - Django documentation 50%
 
-## Books, docs which I'm reading
+## I'm learning about
 
 - Hands on Data Structures and Algorithms with Python - Dr. Basant Agarwal & Benjamin Baka
