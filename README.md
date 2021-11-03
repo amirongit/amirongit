@@ -2,10 +2,10 @@
 
 ## My knowledge comes from
 
-- Arbitary python course on youtube
-- Arbitary flask course on youtube
+- Python courses on youtube
+- Flask courses on youtube
 - Flask documentation
-- Arbitary python PEPs
+- Python PEPs
 - Python tricks the book - Dan Bader
 - Clean Code - Robert C. Martin
 - Werkzeug documentation
