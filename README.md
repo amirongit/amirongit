@@ -1,5 +1,3 @@
-# Hi, I'm Amir.
-
 ## My knowledge comes from
 
 - Python courses on youtube
