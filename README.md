@@ -2,11 +2,11 @@
 
 - Python courses on youtube
 - Flask courses on youtube
-- Flask documentation
+- Flask document
 - Python PEPs
 - Python tricks the book - Dan Bader
 - Clean Code - Robert C. Martin
-- Werkzeug documentation
-- SQLAlchemy documentation
-- Django documentation
+- Werkzeug document
+- SQLAlchemy document
+- Django document
 - Hands on Data Structures and Algorithms with Python - Dr. Basant Agarwal & Benjamin Baka
