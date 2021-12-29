@@ -12,3 +12,4 @@
 - Hands on Data Structures and Algorithms with Python - Dr. Basant Agarwal & Benjamin Baka
 - Website Scraping with Python using BeautifulSoup and Scrapy - Gabor Laszlo Hajba
 - Scrapy document
+- Math courses on the internet
