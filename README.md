@@ -10,4 +10,4 @@
 - SQLAlchemy document
 - Django document
 - Hands on Data Structures and Algorithms with Python - Dr. Basant Agarwal & Benjamin Baka
-- Math courses on the internet
+- Math videos on youtube
