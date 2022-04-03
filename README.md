@@ -9,5 +9,5 @@
 - Werkzeug document
 - SQLAlchemy document
 - Django document
-- Hands on Data Structures and Algorithms with Python - Dr. Basant Agarwal & Benjamin Baka
+- Django REST framework document
 - Math videos on youtube
