@@ -1,1 +1,1 @@
-# Hi, I'm amir; a talentless.
+# Hi, I'm amir; a talentless python developer.
