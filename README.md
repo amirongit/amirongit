@@ -9,5 +9,5 @@
 - Werkzeug document
 - SQLAlchemy document
 - Django document
-- Django REST document
+- DRF document
 - Math videos on youtube
