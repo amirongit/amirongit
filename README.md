@@ -1,1 +1,1 @@
-hey; i don't like fancy stuff.
+```hey; i don't like fancy stuff.```
