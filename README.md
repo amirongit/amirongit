@@ -1,5 +1,6 @@
-```
-hey, i'm a simple man
-i like arch linux, i3, xfce4, KDE plasma, neovim (& neovide), tmux, vscode, python, brackets, semicolons, C# & open-source portions of .net
-i also like it when i public static int main string args
-```
+Hi, I'm AmirHossein, a simple man who likes to switch between [i3 <img src="https://i3wm.org/favicon.ico" width=16 heigh=16 align="absmiddle">](https://i3wm.org/), [Xfce <img src="https://cdn.xfce.org/images/favicon.ico" width=16 heigh=16 align="absmiddle">](https://xfce.org/) & [KDE plasma <img src="https://kde.org/favicon.ico" width=16 heigh=16 align="absmiddle">](https://kde.org/) on his [Arch linux <img src="https://archlinux.org/static/archlinux_common_style/favicon.png" width=16 heigh=16 align="absmiddle">](https://archlinux.org/) installation which is from, idk like like 5 years ago at this point. I love to write [Python <img src="https://www.python.org/static/favicon.ico" width=16 heigh=16 align="absmiddle">](https://www.python.org/) & [C# (.NET) <img src="https://dotnet.microsoft.com/favicon.ico" width="16" height="16" align="absmiddle">](https://dotnet.microsoft.com/en-us/) code with my beloved editor, [Neovim <img src="https://neovim.io/favicon.ico" width=16 heigh=16 align="absmiddle">](https://neovim.io/), within a [Tmux <img src="https://tmux.app/favicon.svg" width=16 heigh=16 align="absmiddle">](https://tmux.app) session. I also get satisfied when I `public static int main string args`!
+
+Here's a list of my [SubStack <img src="https://substackcdn.com/icons/substack/favicon.ico" width=16 heigh=16 align="absmiddle">](https://amirhosseinahmadi.substack.com/) posts:
+- [What is meant by “unit” in “unit testing”?](https://amirhosseinahmadi.substack.com/p/what-is-meant-by-unit-in-unit-testing)
+- [The test pyramid and its importance](https://amirhosseinahmadi.substack.com/p/the-test-pyramid-and-its-importance)
+- [Verifying interactions without fragile test cases](https://amirhosseinahmadi.substack.com/p/verifying-interactions-without-fragile)
